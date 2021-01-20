@@ -11,8 +11,8 @@ Firstly, you have to initialize npm in the root of the project.
 $ npm init
 ```
 
-Download necessary packages.
+Download necessary packages(They are specified in package.json so you only have to run the command below).
 
 ```sh
-$ npm i express body-parser @mailchimp/mailchimp_marketing
+$ npm install
 ```
